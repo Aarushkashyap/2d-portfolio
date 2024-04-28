@@ -8,9 +8,9 @@ export const dialogueData = {
   "cs-degree": `This is my CS degree. I hung it on the wall because I'm proud of it. It was a very theoretical degree but I think it gave me a good foundation.`,
 
   "sofa-table": `That's my sofa. I like to sit here and work on projects. 
-    I also play video games of various genre such as souls-like, multiplayer shooter.`,
+    I also play video games of various genre such as souls-like, multiplayer shooter!`,
 
-  Photo: `If you wish to connect then here is my <a href="https://www.linkedin.com/in/aarushkashyap/" target="_blank"> Linkedin </a>`,
+  Photo: `If you wish to connect then here is my <a href="https://www.linkedin.com/in/aarushkashyap/" target="_blank"> Linkedin</a>!`,
   tv: `That's my TV. I've been watching tech youtubers a lot recently like :
      <a href="https://www.youtube.com/@codebyheart" target="_blank">codebyheart</a>, <a href="https://www.youtube.com/@AniaKubow" target="_blank">AniaKubow</a>,
     <a href="https://www.youtube.com/@Fireship" target="_blank">Fireship</a> (sometimes) and <a href="https://www.youtube.com/@WilliamFiset-videos" target="_blank">WilliamFiset</a>!`,
