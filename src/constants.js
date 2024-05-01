@@ -1,7 +1,7 @@
 export const scaleFactor = 4;
 
 export const dialogueData = {
-  pc: `This is my PC. I work mostly in JavaScript/TypeScript these days.
+  mycomputer: `This is my PC. I work mostly in JavaScript/TypeScript these days.
       I've made a couple of projects using vanilla javascript. I also like C++ and python. Anyway regardless of the language, I just like programming to make cool stuff.
       Here is my <a href="https://github.com/Aarushkashyap" target="_blank">Github</a>!`,
 
@@ -25,10 +25,31 @@ export const dialogueData = {
   <a href="https://github.com/Aarushkashyap/concepts/tree/dev/passwordGenerator" target="_blank"> A Random Password Generator</a>
   <a href="https://github.com/Aarushkashyap/CSVtoJSON" target="_blank"> A CSV to JSON converter </a>`,
 
-  library: `There are a lot of books on my shelves. Who else compulsively buys technical books without ever finishing them?`,
+  Shelf: `Discover worlds within worlds at our public bookshelf. Dive into stories, explore new horizons, and let your imagination soar. Welcome to a haven for book lovers like you. `,
+  Fridge: `Eating good is very much the main reason behind my productivity and thus I like to take all the essential nutrients.`,
+  personalshelf1: `There are a lot of books on my shelves. Who else compulsively buys technical books without ever finishing them?`,
+  personalshelf2: `Welcome to our programming bookshelf, a treasure trove for tech enthusiasts. Dive into coding mastery with our curated collection. Here are some recommended titles:
 
-  exit: `Info about this portfolio : It's made with the Kaboom.js library which is a library for making games in JavaScript.
+  1. "Clean Code" by Robert C. Martin
+  2. "JavaScript: The Good Parts" by Douglas Crockford
+  3. "Cracking the Coding Interview" by Gayle Laakmann McDowell
+  4. "Python Crash Course" by Eric Matthes
+  5. "Design Patterns" by Erich Gamma et al.
+  
+  Explore our shelves and unlock your coding potential!`,
+  personalshelf3: `Welcome to our poetry corner, a sanctuary for the soul. Immerse yourself in the beauty of language and the power of verse with our carefully curated collection. Here are some recommended titles:
+
+  1. "The Collected Poems of Emily Dickinson"
+  2. "Leaves of Grass" by Walt Whitman
+  3. "The Waste Land" by T.S. Eliot
+  4. "Milk and Honey" by Rupi Kaur
+   "A String to Our Souls" by Aarush Kashyap
+  
+  Let these words transport you to new worlds and evoke emotions you never knew existed. Dive in and discover the magic of poetry!`,
+  Glitcharea: `Oh it looks like you have discovered my glitch... don't tell anyone ^_^`,
+  about: `Info about this portfolio : It's made with the Kaboom.js library which is a library for making games in JavaScript.
   Text is rendered with HTML/CSS. So the textbox you're currently reading is not rendered within canvas. Learn more about how to use
-  Kaboom.js by visiting the official docs <a href="https://kaboomjs.com/" target="_blank">here</a>.
+  Kaboom.js by visiting the official docs <a href="https://kaboomjs.com/" target="_blank">here</a>.`,
+  exit: `
   If you want to exit Aarush's portfolio, just close the tab.`,
 };
