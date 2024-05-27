@@ -1,4 +1,5 @@
 ﻿# 2d-portfolio
+This is a personal portfolio website made in a game-like appearance purely for visual interacions with elements of the map. 
 
 Live code at: [Myportfolio](https://2d-portfolio-aarushkashyap.netlify.app/)
 
